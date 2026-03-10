@@ -11,3 +11,9 @@ services:
         sync: false
       - key: PYTHON_VERSION
         value: 3.10.8
+      - key: HF_HUB_DISABLE_SYMLINKS_WARNING
+        value: "1"
+      - key: TOKENIZERS_PARALLELISM
+        value: "false"
+      - key: OMP_NUM_THREADS
+        value: "1"
