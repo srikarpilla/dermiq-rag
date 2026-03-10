@@ -93,8 +93,7 @@ class DermIQEngine:
     Flow:
         [retrieve] ─► [build_context] ─► [generate] ─► END
     """
-
-    EMBED_MODEL       = "sentence-transformers/all-MiniLM-L6-v2"
+    EMBED_MODEL = "sentence-transformers/paraphrase-MiniLM-L3-v2"
     VECTOR_STORE_PATH = "dermiq_vectorstore"
     DOCS_DIR          = "docs/skin_diseases"
 
