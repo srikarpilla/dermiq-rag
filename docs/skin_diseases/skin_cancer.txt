@@ -1,0 +1,103 @@
+SKIN DISEASE: MELANOMA & COMMON SKIN CANCERS
+=============================================
+
+OVERVIEW:
+Skin cancer is the most common malignancy in fair-skinned populations. Three major types: melanoma (most dangerous), basal cell carcinoma (BCC), and squamous cell carcinoma (SCC). Early detection is critical — 5-year survival for localized melanoma is 99% vs 27% for metastatic disease.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION A: MELANOMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The malignant transformation of melanocytes. Accounts for only 1% of skin cancers but causes majority of skin cancer deaths.
+
+Subtypes:
+- Superficial spreading melanoma (70%): Most common, horizontal growth phase
+- Nodular melanoma (15-30%): Vertical growth, aggressive, often amelanotic
+- Lentigo maligna melanoma (10%): Elderly, sun-damaged skin, slow growing
+- Acral lentiginous melanoma (2-8%): Palms, soles, nail apparatus; predominant in darker skin types
+
+ABCDE Criteria for Recognition:
+- Asymmetry: One half doesn't match the other
+- Border: Irregular, ragged, notched, or blurred
+- Color: Variation — shades of brown, black, red, white, or blue
+- Diameter: Greater than 6mm (size of a pencil eraser)
+- Evolving: Any change in size, shape, color, or new symptom (bleeding, crusting)
+
+Additional warning sign: "Ugly Duckling" — lesion looks different from all other moles
+
+Staging (AJCC 8th edition):
+- Stage 0 (in situ): Confined to epidermis
+- Stage I: ≤2mm thick, no ulceration or limited ulceration
+- Stage II: >2mm or with ulceration, node-negative
+- Stage III: Regional lymph node involvement
+- Stage IV: Distant metastasis
+
+Pathophysiology:
+- UV radiation (UVA/UVB) causes DNA damage (C→T transitions at CC/TT dipyrimidines)
+- BRAF V600E mutation: 50% of cutaneous melanomas
+- NRAS mutations: 20%
+- NF1 mutations: 15%
+- KIT mutations: mucosal/acral/chronically sun-damaged
+
+Treatment:
+- Primary excision with wide local excision (WLE) margins based on Breslow thickness
+- Sentinel lymph node biopsy for tumors >0.8mm
+- Adjuvant therapy: pembrolizumab, nivolumab, dabrafenib+trametinib (BRAF-mutant)
+- Metastatic: Anti-PD1 (pembrolizumab, nivolumab), CTLA4 (ipilimumab), BRAF+MEK inhibitors
+- Talimogene laherparepvec (T-VEC) for unresectable Stage III/IV
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION B: BASAL CELL CARCINOMA (BCC)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Most common skin cancer (>4 million cases/year in US). Arises from basal cells of epidermis. Locally invasive, rarely metastasizes.
+
+Subtypes:
+- Nodular BCC (60%): Pearly papule with rolled border and telangiectasias
+- Superficial BCC (30%): Pink-red patch, trunk/extremities
+- Morpheaform/sclerosing BCC: Scar-like, ill-defined, most aggressive
+- Pigmented BCC: Melanin deposits, may mimic melanoma
+
+Risk factors: Cumulative UV exposure, fair skin, immunosuppression, PTCH1 mutations (Gorlin syndrome), arsenic exposure, radiation
+
+Treatment:
+- Mohs micrographic surgery (gold standard for high-risk, recurrent, cosmetically sensitive areas)
+- Surgical excision with 4mm margins
+- Electrodessication & curettage (low-risk superficial/nodular)
+- Topical: imiquimod, 5-fluorouracil (superficial BCC)
+- Photodynamic therapy (PDT)
+- Hedgehog pathway inhibitors: vismodegib, sonidegib (locally advanced/metastatic)
+- Cemiplimab (anti-PD1) for advanced BCC after hedgehog inhibitor failure
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION C: SQUAMOUS CELL CARCINOMA (SCC)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Second most common skin cancer. Arises from keratinocytes. Metastatic potential ~5% for cutaneous SCC (higher for mucosal/immunocompromised).
+
+Precursor: Actinic keratosis (AK) — rough, scaly patch on sun-damaged skin; 1-5 per 1000 AKs/year risk of SCC transformation
+
+Subtypes:
+- Well-differentiated SCC: Firm, hyperkeratotic nodule
+- Poorly differentiated: Rapidly growing, friable
+- SCC in situ (Bowen's disease): Full-thickness epidermal dysplasia
+- Keratoacanthoma: Rapidly growing, may regress spontaneously
+- Verrucous carcinoma: Slow-growing, locally aggressive
+
+High-Risk Features: >2cm diameter, >2mm depth, perineural invasion, location on ear/lip, poor differentiation, immunosuppression, rapid growth
+
+Treatment:
+- Mohs surgery (high-risk features, head/neck)
+- Wide local excision (low-risk lesions)
+- Radiotherapy (adjuvant or primary in inoperable cases)
+- Cemiplimab, pembrolizumab (advanced/metastatic SCC)
+- Adjuvant radiation for perineural invasion
+- AK field therapy: cryotherapy, imiquimod, 5-FU, PDT, diclofenac
+
+PREVENTION FOR ALL SKIN CANCERS:
+- Broad-spectrum SPF 30-50+ sunscreen (UVA/UVB protection)
+- Protective clothing, hats (UPF 50+)
+- Avoid peak UV hours (10am-4pm)
+- Avoid tanning beds
+- Regular full-body skin examinations
+- Vitamin D supplementation if sun-avoidant
+- Annual dermatologist check for high-risk individuals
+
+ICD-10 CODES: C43 (Melanoma), C44 (BCC/SCC)

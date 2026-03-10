@@ -1,0 +1,104 @@
+SKIN DISEASE: ECZEMA (ATOPIC DERMATITIS)
+==========================================
+
+OVERVIEW:
+Atopic dermatitis (AD) is a chronic, relapsing-remitting inflammatory skin condition characterized by intense pruritus, xerosis, and eczematous lesions. It affects 15-20% of children and 1-3% of adults worldwide. AD is part of the "atopic march" — often preceding allergic rhinitis and asthma development.
+
+CLASSIFICATION:
+- Infantile (0-2 years): Predominantly facial and extensor involvement
+- Childhood (2-12 years): Flexural distribution, lichenification
+- Adolescent/Adult (>12 years): Flexural, hand/foot involvement, chronic lichenified plaques
+- Severity: Mild (EASI <7), Moderate (EASI 7-21), Severe (EASI >21)
+
+PATHOPHYSIOLOGY:
+A complex interaction between:
+1. Genetic defects in skin barrier - FLG (filaggrin) gene mutations in 30% of AD patients
+2. Immune dysregulation - Th2-skewed response with elevated IL-4, IL-5, IL-13, IgE
+3. Microbiome dysbiosis - Staphylococcus aureus colonization in >90% of lesional skin
+4. Environmental sensitization - Allergens penetrate defective barrier, triggering immune cascade
+5. Neuroinflammation - Substance P and NGF contribute to itch-scratch cycle
+
+SYMPTOMS:
+- Intense, persistent pruritus (hallmark symptom - "the itch that rashes")
+- Xerosis (dry, rough skin)
+- Erythematous papules, vesicles, and plaques
+- Weeping/oozing in acute phase
+- Crusting and scaling
+- Lichenification (skin thickening) in chronic disease
+- Excoriations from scratching
+- Dennie-Morgan fold (extra crease under eyes)
+- Periorbital darkening
+
+AFFECTED AREAS BY AGE:
+- Infants: Cheeks, scalp, extensor surfaces; napkin area typically spared
+- Children: Antecubital/popliteal fossae, wrists, ankles, neck
+- Adults: Flexural surfaces, hands, eyelids, face, neck, décolletage
+
+TRIGGERS:
+- Irritants: soaps, detergents, wool, synthetic fabrics, sweat
+- Allergens: house dust mites, pet dander, pollen, mold
+- Food allergies (especially in children): milk, egg, wheat, soy, peanuts
+- Stress and emotional factors
+- Heat and humidity extremes
+- Infections (S. aureus, HSV causing eczema herpeticum)
+- Hormonal changes
+
+DIAGNOSIS:
+Hanifin & Rajka criteria (3 of 4 major + 3 of 23 minor criteria)
+Major criteria:
+1. Pruritus
+2. Typical morphology and distribution
+3. Chronic/relapsing course
+4. Personal/family history of atopy
+
+Investigations:
+- Total serum IgE (elevated in 80%)
+- Specific IgE RAST testing
+- Patch testing to rule out contact dermatitis
+- Skin biopsy if diagnosis uncertain
+- Filaggrin gene testing in research settings
+
+TREATMENT PROTOCOLS:
+
+Emollient Therapy (cornerstone):
+- Apply within 3 minutes of bathing ("soak and seal")
+- Ceramide-containing creams preferred
+- 250-500g weekly usage in severe cases
+
+Topical Anti-inflammatory:
+- TCS (topical corticosteroids): mild (hydrocortisone 1%) to superpotent (clobetasol 0.05%)
+- Topical calcineurin inhibitors: tacrolimus 0.03%/0.1%, pimecrolimus 1% (steroid-sparing)
+- Topical PDE4 inhibitor: crisaborole 2% ointment
+- Topical JAK inhibitor: ruxolitinib cream 1.5%
+
+Systemic Treatments:
+- Dupilumab (IL-4Rα antagonist) - biologic, FDA-approved for moderate-severe AD ≥6 months
+- Tralokinumab (IL-13 antagonist) - approved for adults
+- JAK inhibitors: abrocitinib, upadacitinib, baricitinib
+- Cyclosporine (2.5-5mg/kg/day) - short-term rescue
+- Methotrexate, azathioprine, mycophenolate mofetil
+- Oral corticosteroids: short courses only (risk of rebound)
+- Omalizumab for high-IgE phenotypes
+
+Phototherapy:
+- Narrowband UVB (first-line phototherapy)
+- Broadband UVB
+- UVA1 for acute flares
+- PUVA for severe recalcitrant disease
+
+COMPLICATIONS:
+- Eczema herpeticum (Kaposi's varicelliform eruption) - herpes simplex superinfection, EMERGENCY
+- Secondary bacterial infections (S. aureus, Streptococcus)
+- Erythroderma
+- Ocular complications: keratoconus, cataracts
+- Sleep disturbance, anxiety, depression
+- Growth impairment in severe pediatric cases
+
+PREVENTION:
+- Early emollient intervention from birth (shown to reduce AD incidence 30-50%)
+- Probiotic supplementation in pregnancy/infancy (evidence growing)
+- Avoidance of identified triggers
+- Wet wrap therapy for acute flares
+- Proactive therapy: intermittent TCS/TCI on previously affected areas
+
+ICD-10 CODE: L20.9 (Atopic dermatitis, unspecified)

@@ -1,0 +1,81 @@
+SKIN DISEASE: ACNE VULGARIS
+=====================================
+
+OVERVIEW:
+Acne vulgaris is a chronic inflammatory disease of the pilosebaceous unit, representing the most prevalent skin disorder globally. It affects approximately 85% of individuals between ages 12-24, though adult-onset acne is increasingly common, particularly in women aged 25-40.
+
+CLASSIFICATION:
+- Grade I (Comedonal): Primarily open (blackheads) and closed (whiteheads) comedones without significant inflammation
+- Grade II (Mild Inflammatory): Scattered papules and pustules with fewer than 20 comedones
+- Grade III (Moderate): Multiple papules/pustules, possible nodule formation, moderate to severe comedones (20-100)
+- Grade IV (Severe/Nodulo-cystic): Extensive nodules, cysts, potential scarring, greater than 5 pseudocysts
+
+PATHOPHYSIOLOGY:
+Four primary mechanisms drive acne development:
+1. Follicular hyperkeratinization - Abnormal desquamation of follicular epithelium leads to microcomedone formation
+2. Sebaceous gland hyperactivity - Androgens (testosterone, DHEA-S) stimulate excess sebum production
+3. Cutibacterium acnes proliferation - This anaerobic gram-positive bacterium thrives in sebum-rich environments
+4. Immune-mediated inflammation - TLR2 activation triggers IL-1, IL-8, TNF-alpha release
+
+SYMPTOMS:
+- Open comedones (blackheads) - dilated follicles with oxidized melanin
+- Closed comedones (whiteheads) - flesh-colored dome-shaped papules
+- Papules (< 5mm inflammatory lesions)
+- Pustules (papules with visible purulent material)
+- Nodules (> 5mm, deep, painful)
+- Cysts (fluctuant, pus-filled, risk of scarring)
+- Post-inflammatory hyperpigmentation (PIH)
+- Atrophic or hypertrophic scarring
+
+AFFECTED AREAS:
+Face (forehead, nose, chin - T-zone), chest, back, shoulders, upper arms
+
+TRIGGERS & RISK FACTORS:
+- Hormonal fluctuations (puberty, menstrual cycle, PCOS, pregnancy)
+- Comedogenic cosmetics and sunscreens
+- High glycemic index diet and dairy consumption
+- Psychological stress (increases CRH, triggering sebum production)
+- Certain medications: corticosteroids, lithium, isoniazid, B vitamins
+- Friction/pressure (acne mechanica) from helmets, straps, phones
+- Genetic predisposition (concordance rate ~80% in twins)
+
+DIAGNOSIS:
+- Clinical examination is primary diagnostic method
+- Hormonal panel if endocrine etiology suspected (LH/FSH ratio, DHEA-S, free testosterone)
+- Culture if antibiotic resistance suspected
+- Consider PCOS workup in women with truncal acne and menstrual irregularities
+
+TREATMENT PROTOCOLS:
+Topical Treatments:
+- Benzoyl peroxide (2.5-10%) - bactericidal, reduces resistance
+- Retinoids: tretinoin (0.025-0.1%), adapalene (0.1-0.3%), tazarotene
+- Salicylic acid (0.5-2%) - comedolytic, anti-inflammatory
+- Niacinamide (4-5%) - reduces sebum, anti-inflammatory
+- Azelaic acid (15-20%) - antibacterial, reduces PIH
+- Topical antibiotics: clindamycin, erythromycin (always with BPO)
+- Dapsone gel 5-7.5%
+
+Systemic Treatments:
+- Oral antibiotics: doxycycline (50-100mg), minocycline, tetracycline (6-12 weeks)
+- Combined oral contraceptives (estrogen-progestin) for females
+- Spironolactone (50-200mg) for hormonal acne in women
+- Isotretinoin (0.5-1mg/kg/day) for severe/recalcitrant acne - requires iPLEDGE monitoring
+
+Procedural Treatments:
+- Chemical peels (glycolic acid, salicylic acid, Jessner's)
+- Comedone extraction
+- Intralesional corticosteroid injections for nodules/cysts
+- Laser and light therapies (PDT, blue light, 1450nm diode)
+- Microneedling for scarring
+
+PREVENTION:
+- Non-comedogenic skincare and cosmetics
+- Gentle cleansing twice daily
+- Avoid manual extraction
+- SPF 30+ (non-comedogenic)
+- Dietary modifications: reduce high-GI foods and skim dairy
+
+PROGNOSIS:
+Most cases resolve by mid-20s. Severe nodulo-cystic acne risks permanent scarring without adequate treatment. PIH can persist for months to years, particularly in darker skin phototypes (Fitzpatrick III-VI).
+
+ICD-10 CODE: L70.0 (Acne vulgaris)

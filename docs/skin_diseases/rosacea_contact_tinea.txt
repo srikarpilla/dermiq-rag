@@ -1,0 +1,117 @@
+SKIN DISEASE: ROSACEA
+======================
+
+OVERVIEW:
+Rosacea is a chronic inflammatory skin condition predominantly affecting the central face. Affects approximately 5% of the global population, with peak incidence in Fitzpatrick I-II skin types, ages 30-60. Four subtypes with distinct clinical presentations.
+
+SUBTYPES (NRS Classification):
+- Subtype 1 (ETR - Erythematotelangiectatic): Flushing, persistent central facial erythema, telangiectasias
+- Subtype 2 (PPR - Papulopustular): Papules and pustules on background erythema ("acne rosacea")
+- Subtype 3 (Phymatous): Skin thickening, nodularity; rhinophyma (bulbous nose) most common
+- Subtype 4 (Ocular): 50% of rosacea patients; lid margin disease, conjunctivitis, episcleritis
+
+PATHOPHYSIOLOGY:
+- Dysregulation of innate immune response via TLR2 pathway
+- Cathelicidin (LL-37) overproduction triggering neurogenic inflammation
+- Demodex folliculorum mite colonization (10x higher in rosacea skin)
+- UV-triggered vascular hyperreactivity and angiogenesis via VEGF
+- Neurovascular dysregulation (explains flushing triggers)
+- TRPV1 and TRPV4 receptor activation by environmental triggers
+
+SYMPTOMS:
+- Persistent centrofacial erythema and flushing
+- Telangiectasias (broken blood vessels)
+- Papules and pustules (resemble acne but without comedones)
+- Burning and stinging sensation
+- Skin sensitivity to topical products
+- Ocular symptoms: gritty eyes, blurred vision, photophobia
+- Rhinophyma (bulbous, porous nose in severe cases)
+- Lymphedema of cheeks in severe disease
+
+TRIGGERS:
+- Sun exposure and heat
+- Spicy foods, hot beverages, alcohol (especially red wine)
+- Extreme temperatures, wind
+- Exercise
+- Stress and anxiety
+- Certain skincare products (alcohol, witch hazel, fragrance)
+- Medications: topical vasodilators
+- Menopause/hormonal changes
+
+TREATMENT:
+Topical: metronidazole 0.75-1%, azelaic acid 15-20%, ivermectin 1% (targets Demodex), brimonidine 0.33% gel (vasoconstrictor for erythema), oxymetazoline 1% cream
+Systemic: doxycycline 40mg modified-release (sub-antimicrobial dose), isotretinoin (severe/refractory)
+Procedural: vascular lasers (PDL 595nm, Nd:YAG), IPL for telangiectasias, surgical debulking for rhinophyma
+Ocular: lid hygiene, azithromycin eye drops, cyclosporine 0.05% ophthalmic
+
+ICD-10: L71.9
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SKIN DISEASE: CONTACT DERMATITIS
+==================================
+
+OVERVIEW:
+Inflammatory skin reaction caused by direct contact with an external agent. Two main types with distinct immunological mechanisms.
+
+TYPES:
+1. Irritant Contact Dermatitis (ICD) - 80% of cases
+   - Non-immunological, dose-dependent cytotoxic reaction
+   - Common irritants: soaps, detergents, solvents, acids, alkalis, prolonged water exposure
+   - "Housewife's eczema" - chronic hand dermatitis from repeated wet work
+
+2. Allergic Contact Dermatitis (ACD) - 20% of cases
+   - Type IV delayed hypersensitivity (sensitization then elicitation)
+   - Common allergens: nickel (most common), fragrances, preservatives (MI/MCI), rubber chemicals, hair dye (PPD), poison ivy/oak (urushiol), cobalt, chromate
+   - Requires prior sensitization (days to years)
+
+SYMPTOMS:
+Acute: erythema, edema, vesicles, oozing, pruritus at contact site
+Chronic: lichenification, scaling, fissuring, hyperpigmentation
+ACD: lesions may spread beyond contact area (auto-sensitization); sharp geometric patterns suggest external cause
+
+DIAGNOSIS:
+- Patch testing (gold standard for ACD) - TRUE test or extended series
+- History and pattern recognition (distribution matches contact pattern)
+
+TREATMENT:
+- Identify and avoid causative agent
+- Barrier emollients, gloves for hand protection
+- Topical corticosteroids (mild-potent depending on site)
+- Tacrolimus/pimecrolimus for face/flexures
+- Systemic corticosteroids for extensive/severe cases
+- Antihistamines for pruritus
+
+ICD-10: L23 (ACD), L24 (ICD)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SKIN DISEASE: TINEA (DERMATOPHYTOSIS / RINGWORM)
+==================================================
+
+OVERVIEW:
+Fungal infections caused by dermatophytes (Trichophyton, Microsporum, Epidermophyton species). Named by anatomical location. Very common — tinea pedis affects 15% of global population.
+
+TYPES:
+- Tinea Capitis: Scalp; kerion (inflammatory), gray patch, black dot presentations; primarily in children
+- Tinea Corporis (Ringworm): Body; classic annular plaque with central clearing and advancing scaly border
+- Tinea Pedis (Athlete's Foot): Interdigital maceration, plantar scaling, bullous type
+- Tinea Cruris (Jock Itch): Groin, inner thighs; well-demarcated erythematous plaques
+- Tinea Unguium (Onychomycosis): Nails; distal-lateral subungual most common; opacification, thickening, onycholysis
+- Tinea Versicolor (Pityriasis versicolor - actually Malassezia, not dermatophyte): Hypo/hyperpigmented macules, trunk, responds to UV
+
+DIAGNOSIS:
+- KOH preparation: branching hyphae (septate) with arthrospores
+- Wood's lamp: M. canis fluoresces green
+- Fungal culture: Sabouraud dextrose agar
+- Dermoscopy
+
+TREATMENT:
+Topical: clotrimazole, terbinafine, miconazole, ketoconazole (body/feet/groin — 2-4 weeks)
+Systemic (extensive/scalp/nails): 
+- Terbinafine (nail: 250mg/day × 6 weeks fingers, 12 weeks toes)
+- Itraconazole pulse therapy
+- Griseofulvin (tinea capitis in children)
+- Fluconazole
+
+ICD-10: B35.0-B35.9

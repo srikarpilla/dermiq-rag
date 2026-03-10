@@ -1,0 +1,123 @@
+SKIN DISEASE: URTICARIA (HIVES)
+================================
+
+OVERVIEW:
+Urticaria is characterized by transient, intensely pruritic wheals (hives) with or without angioedema. Affects 15-25% of the general population at some point in their lives. Acute urticaria resolves within 6 weeks; chronic urticaria persists beyond 6 weeks.
+
+CLASSIFICATION:
+- Acute Urticaria (<6 weeks): Often allergic (foods, drugs, infections)
+- Chronic Spontaneous Urticaria (CSU) (>6 weeks): No identifiable trigger; autoimmune in 45% (anti-FcεRI, anti-IgE antibodies)
+- Inducible/Physical Urticarias: Dermographism, cold urticaria, cholinergic, solar, pressure, aquagenic
+
+SYMPTOMS:
+- Wheals: superficial, pale-to-pink edematous plaques surrounded by erythematous flare
+- Individual wheal duration <24 hours (key distinguishing feature from urticarial vasculitis)
+- Intense pruritus, burning
+- Angioedema: deeper dermal/subcutaneous swelling — face, lips, tongue, throat (potential airway compromise)
+- No vesicles, no scaling, completely reversible
+
+PATHOPHYSIOLOGY:
+Mast cell and basophil degranulation → histamine, prostaglandins, leukotrienes release → vascular permeability, sensory nerve activation
+
+TREATMENT:
+- Second-generation H1 antihistamines (first-line): cetirizine, loratadine, fexofenadine, bilastine (up-dose up to 4x)
+- H2 antihistamines adjunct: ranitidine, famotidine
+- Omalizumab (anti-IgE): for CSU refractory to antihistamines — 300mg SC monthly
+- Cyclosporine for severe refractory cases
+- Short-course oral steroids for acute severe episodes
+- Epinephrine for anaphylaxis/severe angioedema (emergency)
+- Trigger avoidance (NSAIDs, ACE inhibitors worsen CSU)
+
+ICD-10: L50.9
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SKIN DISEASE: VITILIGO
+=======================
+
+OVERVIEW:
+Vitiligo is an acquired autoimmune depigmentation disorder caused by selective destruction of melanocytes. Affects 0.5-2% of the global population regardless of skin type; disproportionately affects quality of life in darker-skinned individuals.
+
+CLASSIFICATION:
+- Segmental Vitiligo (SV): Unilateral, follows dermatomal distribution, stable course, poor repigmentation response
+- Non-segmental Vitiligo (NSV): Bilateral, symmetric, progressive; most common
+  * Generalized: Most common NSV type; acrofacial, vulgaris, mixed
+  * Mucosal: Lips, genitalia
+  * Universal: >80% body depigmentation
+
+PATHOPHYSIOLOGY:
+- Autoimmune T-cell mediated (CD8+ cytotoxic T cells) attack on melanocytes
+- IFN-γ/CXCL10/CXCR3 axis - critical for T-cell homing to skin
+- Autoantibodies to melanocyte antigens (tyrosinase, TYRP1/2)
+- Oxidative stress and H2O2 accumulation in melanocytes
+- Strong association with other autoimmune diseases: thyroiditis (Hashimoto's), type 1 diabetes, Addison's, alopecia areata, pernicious anemia
+
+SYMPTOMS:
+- Completely depigmented (chalk-white), well-demarcated macules and patches
+- No epidermal change — skin texture and sensation normal
+- Confetti-like or trichrome patterns (partial repigmentation/depigmentation)
+- Koebner phenomenon present
+- Leukotrichia (white hairs within lesion) — indicates follicular melanocyte loss (poor prognosis for repigmentation)
+- Wood's lamp dramatically highlights lesions (milk-white fluorescence) in fair skin
+
+AFFECTED AREAS:
+- Periorificial (around eyes, mouth, nose)
+- Acral (hands, feet, tips)
+- Extensor surfaces, bony prominences
+- Genitalia
+- Areas subject to friction/pressure
+
+TREATMENT:
+Topical:
+- Potent TCS (first-line active disease)
+- Tacrolimus/pimecrolimus (face, genitalia, children)
+- Ruxolitinib cream 1.5% (JAK1/2 inhibitor) — FDA-approved 2022 for non-segmental vitiligo ≥12yo; highest topical efficacy to date
+
+Phototherapy:
+- Narrowband UVB (most effective modality; 3x/week)
+- Excimer laser 308nm (localized lesions)
+- PUVA (less commonly used now)
+
+Systemic:
+- Oral minipulse dexamethasone (0.3mg/kg on 2 consecutive days/week) - arrests progression
+- Afamelanotide (α-MSH analogue) + NB-UVB combination
+- Oral JAK inhibitors (ruxolitinib, baricitinib) — promising clinical trials
+
+Surgical:
+- Autologous melanocyte transplant
+- Blister grafting, split-thickness grafting
+- ReCell spray-on skin technology
+- Indicated for stable, treatment-resistant segmental vitiligo
+
+ICD-10: L80
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SKIN DISEASE: SEBORRHEIC DERMATITIS
+=====================================
+
+OVERVIEW:
+Common chronic inflammatory condition affecting sebaceous gland-rich areas. Affects 1-3% of adults (up to 36% in HIV/immunocompromised). Dandruff is the mild, non-inflammatory form.
+
+PATHOGENESIS:
+- Malassezia (furfur, globosa) yeast — metabolizes sebum triglycerides into oleic acid, triggering irritant and immune response
+- Sebaceous gland activity (worsens during puberty, with neurological disease)
+- Abnormal immune response in susceptible individuals
+
+SYMPTOMS:
+- Greasy, yellowish scales on erythematous base
+- Pruritus (variable)
+- Indistinct margins (unlike psoriasis)
+- Chronic, relapsing course
+
+AFFECTED AREAS:
+- Scalp (most common), glabella, eyebrows, nasolabial folds
+- Ear canals, behind ears, paranasal area
+- Central chest, axillae, groin (flexural involvement)
+
+TREATMENT:
+Scalp: Antifungal shampoos — ketoconazole 2%, selenium sulfide 1-2.5%, zinc pyrithione, ciclopirox 1%. Tar-based shampoos. TCS scalp solutions.
+Face/Body: Ketoconazole cream 2%, ciclopirox cream, mild TCS, pimecrolimus
+Severe/Resistant: Oral itraconazole pulse therapy
+
+ICD-10: L21.9

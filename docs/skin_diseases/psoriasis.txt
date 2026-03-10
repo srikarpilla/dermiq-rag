@@ -1,0 +1,117 @@
+SKIN DISEASE: PSORIASIS
+========================
+
+OVERVIEW:
+Psoriasis is a chronic, immune-mediated inflammatory disease affecting skin and joints in approximately 2-3% of the global population (~125 million people). Characterized by accelerated keratinocyte proliferation (turnover reduced from 28 days to 3-4 days), leading to well-demarcated, erythematous plaques with silvery scales. Has significant systemic implications including psoriatic arthritis, cardiovascular disease, metabolic syndrome, and psychological comorbidities.
+
+CLASSIFICATION:
+- Plaque Psoriasis (Psoriasis Vulgaris): 80-90% of cases
+- Guttate Psoriasis: Drop-shaped lesions, often triggered by streptococcal infection
+- Inverse (Flexural) Psoriasis: Smooth, shiny plaques in body folds
+- Pustular Psoriasis: 
+  * Generalized (Von Zumbusch) - systemic, potentially life-threatening
+  * Palmoplantar (PPP)
+  * Acropustulosis
+- Erythrodermic Psoriasis: >90% BSA involvement, medical emergency
+- Nail Psoriasis: Pitting, onycholysis, oil-drop sign, subungual hyperkeratosis
+- Psoriatic Arthritis: Affects 30% of psoriasis patients
+
+SEVERITY ASSESSMENT:
+- Mild: BSA <3%, PASI <10, DLQI <10
+- Moderate: BSA 3-10%, PASI 10-20
+- Severe: BSA >10%, PASI >20, DLQI >10
+
+PATHOPHYSIOLOGY:
+1. Genetic susceptibility - HLA-Cw6 allele (strongest genetic association), PSORS1-PSORS9 loci
+2. Environmental trigger activates innate immunity
+3. Plasmacytoid DCs produce IFN-α; myeloid DCs activate T cells
+4. Th1/Th17 polarization: TNF-α, IL-17A, IL-17F, IL-23 axis is central
+5. IL-17A and IL-22 drive keratinocyte hyperproliferation and barrier dysfunction
+6. VEGF-mediated angiogenesis fuels inflammatory microenvironment
+
+SYMPTOMS:
+- Well-demarcated erythematous plaques with thick silvery-white scales
+- Auspitz sign: pinpoint bleeding when scale removed
+- Pruritus (present in 70-90%), burning sensation
+- Koebner phenomenon: new lesions at sites of skin trauma
+- Nail changes in 50% (pitting is pathognomonic)
+- Joint pain/stiffness in psoriatic arthritis
+- Geographical tongue, fissured tongue
+- Quality of life significantly impacted
+
+AFFECTED AREAS:
+- Extensor surfaces: elbows, knees, shins
+- Scalp (50% of cases)
+- Lumbosacral area
+- Umbilicus, intergluteal cleft
+- Nails
+- Palms and soles (palmoplantar psoriasis)
+
+TRIGGERS:
+- Streptococcal pharyngitis (guttate psoriasis)
+- Stress and psychological factors
+- Medications: beta-blockers, lithium, antimalarials, NSAIDs, ACE inhibitors
+- Alcohol consumption and smoking
+- Trauma to skin (Koebner phenomenon)
+- HIV infection
+- Obesity
+- Winter season (lack of UV exposure)
+
+DIAGNOSIS:
+Primarily clinical. Histopathology when uncertain:
+- Acanthosis with elongated rete ridges
+- Parakeratosis with neutrophil collections (Munro microabscesses)
+- Suprapapillary thinning
+- Tortuous dilated vessels in dermal papillae
+
+Investigations:
+- Skin biopsy for atypical presentations
+- Joint X-rays/"pencil-in-cup" deformity in psoriatic arthritis
+- ESR, CRP, uric acid, RF (to distinguish from RA)
+- LFTs, metabolic panel before systemic therapy
+
+TREATMENT PROTOCOLS:
+
+Topical Treatments (Mild Disease):
+- TCS (superpotent on body, mild on face/flexures)
+- Vitamin D analogues: calcipotriol, calcitriol, tacalcitol
+- Calcipotriol/betamethasone combination (Taclonex/Enstilar foam) - most effective topical
+- Tazarotene (retinoid)
+- Coal tar preparations (keratolytic, antipruritic)
+- Salicylic acid (keratolytic for thick plaques)
+- Dithranol (anthralin) - reserve for resistant plaques
+
+Phototherapy (Moderate Disease):
+- Narrowband UVB (311-313nm) - first-line phototherapy
+- PUVA (psoralen + UVA) - more potent, higher carcinogenic risk
+- Excimer laser for localized plaques
+- Targeted phototherapy
+
+Systemic Treatments (Moderate-Severe):
+Conventional:
+- Methotrexate 7.5-25mg/week (gold standard)
+- Cyclosporine 2.5-5mg/kg/day (rapid effect, short-term)
+- Acitretin (retinoid) - especially for pustular/erythrodermic
+
+Biologics:
+- TNF-α inhibitors: etanercept, adalimumab, infliximab, certolizumab
+- IL-12/23 inhibitor: ustekinumab
+- IL-17A inhibitors: secukinumab, ixekizumab, bimekizumab
+- IL-17RA inhibitor: brodalumab
+- IL-23 inhibitors: guselkumab, risankizumab, tildrakizumab (newest, highest PASI 90/100 rates)
+
+Oral Small Molecules:
+- Apremilast (PDE4 inhibitor) - oral, well-tolerated
+- Deucravacitinib (TYK2 inhibitor) - newer, selective
+- Tofacitinib (JAK1/3) - for psoriatic arthritis
+
+COMPLICATIONS:
+- Psoriatic arthritis (can be debilitating, irreversible joint damage)
+- Cardiovascular disease (2-3x increased risk MI)
+- Metabolic syndrome, diabetes, obesity, NAFLD
+- Inflammatory bowel disease (Crohn's, UC)
+- Depression, anxiety, suicidal ideation
+- Erythroderma and generalized pustular psoriasis (life-threatening)
+- Uveitis, oral lesions
+
+ICD-10 CODE: L40.0 (Psoriasis vulgaris), L40.9 (Psoriasis, unspecified)
